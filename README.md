@@ -38,4 +38,4 @@ Github 加速服务
 
 [其他分享接口](https://www.yydsys.top/box/api/)
 
-[其他分享接口1]（https://raw.liucn.cc/m.json）
+[其他分享接口1](https://raw.liucn.cc/m.json)
